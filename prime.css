@@ -1,0 +1,9 @@
+h2 {
+    text-align: center;
+}
+div{
+    position: absolute;
+    left: 41%;
+    top: 35%;
+    border: 1px solid red;
+}
